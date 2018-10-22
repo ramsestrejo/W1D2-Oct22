@@ -3,7 +3,7 @@
 ## Objective 
 Create a programmatic simulation of the Monty Hall's show game. Where a contestant, by switching their selection is more likely to win the price.
 
-##Algorithm
+## Algorithm
 1. User picks a number between 1 and 3 - (door that opens) - saved as x
 2. Player 1 selects to open door x
 3. Player 2 selects to open door x
